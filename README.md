@@ -1,7 +1,7 @@
-# HELM-CHART---CLICKHOUSE
+# HELM-CHART-CLICKHOUSE
 <!--- app-name: ClickHouse -->
 
-# Bitnami package for ClickHouse
+ ClickHouse
 
 ClickHouse is an open-source column-oriented OLAP database management system. Use it to boost your database performance while providing linear scalability and hardware efficiency.
 
